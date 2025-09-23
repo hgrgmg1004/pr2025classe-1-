@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\pr2025classe-1-\\20259,15 v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1B28B0-14C1-4930-BC05-4AB32450BEB9}|20259,15 v2\\20259,15 v2.vcxproj|C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\pr2025classe-1-\\20259,15 v2\\20259,15 v2\\main||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D1B28B0-14C1-4930-BC05-4AB32450BEB9}|20259,15 v2\\20259,15 v2.vcxproj|solutionrelative:20259,15 v2\\main||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main",
+              "DocumentMoniker": "C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\pr2025classe-1-\\20259,15 v2\\20259,15 v2\\main",
+              "RelativeDocumentMoniker": "20259,15 v2\\main",
+              "ToolTip": "C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\pr2025classe-1-\\20259,15 v2\\20259,15 v2\\main",
+              "RelativeToolTip": "20259,15 v2\\main",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T07:37:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
