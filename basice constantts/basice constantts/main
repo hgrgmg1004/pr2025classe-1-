@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void) {
+    printf("=== Basic Constant ===\n\n");
+    printf("Name\t: junwon\n\n");
+    printf("Initial\t: S\n\n");
+    printf("Age: 28\n\n");
+    printf("Score\t: 93.500000\n\n");
+    printf("Count\t: 300000000\n");
+
+    return 0;
+}
