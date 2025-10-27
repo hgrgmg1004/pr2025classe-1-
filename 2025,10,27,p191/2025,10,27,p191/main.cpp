@@ -1,16 +1,16 @@
 #include <iostream>
-int rec_func(int n) 
+#include <iomanip> 
+const double CM_PER_METER = 100.0;
+double centi_to_meter(int cm);
+int main()
 {
-    if (n == 1) 
-    {
-        return 1;
-    }
-    return n + rec_func(n - 1);
-}
-int main() 
-{
-    const int MAX_NUM = 10;
-    int result = rec_func(MAX_NUM);
-    std::cout << result << std::endl;
+    double res;
+    res = centi_to_meter(187);
+    std::cout << std::fixed << std::setprecision(2) << res << "m" << std::endl;
     return 0;
+}
+double centi_to_meter(int cm)
+{
+    double converted_m = (double)cm / CM_PER_METER;
+    return converted_m;
 }
