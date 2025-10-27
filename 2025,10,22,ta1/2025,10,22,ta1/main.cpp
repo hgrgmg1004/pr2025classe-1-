@@ -17,7 +17,8 @@ int calculateGCD_while(int a, int b)
     return num1;
 }
 
-int calculateLCM(int n1, int n2, int gcd) {
+int calculateLCM(int n1, int n2, int gcd) 
+{
     if (gcd == 0) return 0;
     return (abs(n1) / gcd) * abs(n2);
 }
