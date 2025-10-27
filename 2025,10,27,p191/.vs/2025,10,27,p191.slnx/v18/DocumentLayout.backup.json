@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\2025,10,27,p191\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6EE253-9D1A-4608-BF03-66F69F5EF2C4}|2025,10,27,p191\\2025,10,27,p191.vcxproj|C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\2025,10,27,p191\\2025,10,27,p191\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E6EE253-9D1A-4608-BF03-66F69F5EF2C4}|2025,10,27,p191\\2025,10,27,p191.vcxproj|solutionrelative:2025,10,27,p191\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\2025,10,27,p191\\2025,10,27,p191\\main.cpp",
+              "RelativeDocumentMoniker": "2025,10,27,p191\\main.cpp",
+              "ToolTip": "C:\\Users\\ij325\\OneDrive\\\uBB38\uC11C\\GitHub\\pr2025classe-1-\\2025,10,27,p191\\2025,10,27,p191\\main.cpp",
+              "RelativeToolTip": "2025,10,27,p191\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-27T08:06:44.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
