@@ -2,6 +2,7 @@
 *.d
 *.vsidx
 *.opendb
+*.ipch
 
 # Object files
 *.o
