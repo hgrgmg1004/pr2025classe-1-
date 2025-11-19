@@ -1,0 +1,1 @@
+printf("before swap:(nA,nB)=()")
