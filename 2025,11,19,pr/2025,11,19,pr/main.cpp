@@ -1,7 +1,8 @@
+#include <stdio.h> 
 #include <iostream>
 #include <iomanip>
 using namespace std;
-int main() 
+int main()
 {
     double x1 = 5.7;
     double y1 = 10.5;
