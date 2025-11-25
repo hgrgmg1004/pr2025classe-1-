@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\ij325\OneDrive\문서\GitHub\pr2025classe-1-\2025,11,26,rpt4\2025,11,26,rpt4\main.cpp(148,16): warning C4566: 유니버설 문자 이름 '\U0001F389'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
   2025,11,26,rpt4.vcxproj -> C:\Users\ij325\OneDrive\문서\GitHub\pr2025classe-1-\2025,11,26,rpt4\x64\Debug\2025,11,26,rpt4.exe
