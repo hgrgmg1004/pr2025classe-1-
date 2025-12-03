@@ -142,7 +142,8 @@ int main(void)
         printf("Substring starting from the found position: ");
         puts(pos);
     }
-    else {
+    else 
+    {
         printf("Could not find \"%s\" in sentence.\n", p_str2);
     }
     // 이 부분은 **문자열 내에서 특정 부분 문자열을 찾는** 부분입니다.
