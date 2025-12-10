@@ -29,7 +29,7 @@ int main(void)
     printf("u.i (int)   : %d\n", u.i);
     printf("u.d (double): %lf (손상된 값)\n", u.d); // u.i가 할당되면서 u.d의 메모리가 덮어쓰입니다.
     printf("\n");
-    // 2-2. 공용체에 실수(d) 할당
+    // 2-2. 공용체에 실수(d) 할당 합니다.
     u.d = 3.3333;
     printf("[할당: u.d = 3.3333]\n");
     printf("u.d (double): %lf\n", u.d);
